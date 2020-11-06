@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class NejikoController : MonoBehaviour
 {
-    private const int MinLane = -2;
-    private const int MaxLane = 2;
-    private const float LaneWidth = 1.0f;
+    private const int MinLane = -1;
+    private const int MaxLane = 1;
+    private const float LaneWidth = 2.0f;
     private const int DefaultLife = 3;
     private const float StunDuration = 0.5f;
     private CharacterController controller;

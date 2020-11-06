@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SimpleFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StageGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NejikoController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LifePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       </list>
     </option>
   </component>
@@ -56,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604559349684</updated>
       <workItem from="1604559361038" duration="9266000" />
-      <workItem from="1604627260315" duration="3752000" />
+      <workItem from="1604627260315" duration="11460000" />
     </task>
     <servers />
   </component>

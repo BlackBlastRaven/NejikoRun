@@ -21,6 +21,8 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="GameController.cs" t="Include" />
+          <e p="LifePanel.cs" t="Include" />
           <e p="NejikoController.cs" t="Include" />
           <e p="SimpleFollow.cs" t="Include" />
           <e p="StageGenerator.cs" t="Include" />
